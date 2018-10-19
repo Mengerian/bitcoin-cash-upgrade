@@ -7,3 +7,7 @@
 * 2019 Feb 15 - Release of Upgrade Implementation and Activation
 
 * 2019 May 15 - Upgrade
+
+**Note:** These dates should be targets for completion of the different phases. Getting something done just before the deadline does not guarantee inclusion in the update.
+
+"A feature freeze is not a deadline for proposed features. It's the deadline for deciding which features are going to be included. The feature freeze should be the end of the normal debate." - [Jonathan Toomim](https://twitter.com/jtoomim/status/1053071180834385920)
