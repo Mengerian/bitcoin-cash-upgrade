@@ -13,6 +13,7 @@ In May 2018 several disabled opcodes were reintroduced to the Bitcoin Cash scrip
 This specifications describes the opcodes that are proposed to be added in the May 2019 protocol upgrade.
 
 The opcodes to be added are:
+
 | Word | OpCode | Hex | Input | Output | Description |
 | :--- | :----- | :-- | :---- | :----- | :---------- |
 | OP_MUL | 149 | 0x95 | n1 | n2 | out | Multiplies two numbers |
@@ -183,6 +184,7 @@ Impact of successful execution:
 # References
 
 [1] [https://en.bitcoin.it/wiki/Script#Opcodes](https://en.bitcoin.it/wiki/Script#Opcodes)
+
 [2] [may-2018-reenabled-opcodes.md](https://github.com/bitcoincashorg/bitcoincash.org/blob/master/spec/may-2018-reenabled-opcodes.md)
 
 # Specification Status
