@@ -14,7 +14,8 @@ When the median time past [1] of the most recent 11 blocks (MTP-11) is greater t
 * Change the Merkle tree structure to Merklix-Metadata Tree.
 * Enforce "Minimal Data Push" rule
 * Enforce "Null Dummy" rule
-* Improve signature operations (Sigops) counting method [TBD] 
+* Improve signature operations (Sigops) counting method [TBD]
+* Remove and/or change the 100-byte transaction size rule [TBD]
 
 The following are not consensus changes, but are recommended changes for Bitcoin Cash implementations:
 
