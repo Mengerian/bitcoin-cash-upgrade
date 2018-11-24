@@ -45,3 +45,8 @@ hashMerkleRoot is calculated as the 256-bit number obtained by computing the dou
 
 [TODO: describe specification for calculating the Tx Merklix Root]
 
+## References
+
+[1] [Introducing Merklix tree as an unordered Merkle tree on steroid](https://www.deadalnix.me/2016/09/24/introducing-merklix-tree-as-an-unordered-merkle-tree-on-steroid/)
+
+[2] [Using Merklix tree to shard block validation](https://www.deadalnix.me/2016/11/06/using-merklix-tree-to-shard-block-validation/)
