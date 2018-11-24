@@ -8,12 +8,12 @@ version: 0.01
 
 ## Motivation and Design Goals
 
-Leave SPV nodes unaffected: Merkle proofs should remain the same
-Leave network messages for blocks the same (https://en.bitcoin.it/wiki/Block)
-Cover block size and transaction count by POW
-Extensible structure to add metadata
-Allow efficient insertions and deletions
-Make data structure that will enable embarrassingly parallel implementation
+* Leave SPV nodes unaffected: Merkle proofs should remain the same
+* Leave network messages for blocks the same (https://en.bitcoin.it/wiki/Block)
+* Cover block size and transaction count by POW
+* Extensible structure to add metadata
+* Allow efficient insertions and deletions
+* Make data structure that will enable embarrassingly parallel implementation
 
 ## Design Approach
 
